@@ -1,7 +1,7 @@
 public class helloWorld{
    public static void main(String[] args){
-      String h = "Stand Name";
-      String w = "The World";
+      int h = 420;
+      int w = 69;
       System.out.println(h + w);
    }
 }
