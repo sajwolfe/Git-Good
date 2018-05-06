@@ -1,7 +1,8 @@
 public class helloWorld{
    public static void main(String[] args){
-      int h = 420;
-      int w = 69;
-      System.out.println(h + w);
+      String he = "Hello";
+      String wo = "World";
+      int greet = h + w;
+      System.out.println(h + w + greet);
    }
 }
